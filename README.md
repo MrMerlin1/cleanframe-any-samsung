@@ -20,6 +20,14 @@ I run this on a 2024 Crystal UHD (`UN75DU7200FXZA`, Tizen 9). The original was b
 
 See [CHANGES.md](CHANGES.md) for the full list.
 
+## Screens
+
+| All apps | Wallpaper & slideshows |
+| --- | --- |
+| ![All apps card grid with On Home badges](docs/images/cleanframe-allapps.jpg) | ![Wallpaper picker with a live preview and the Slideshows entry](docs/images/cleanframe-wallpaper.jpg) |
+
+Browser-preview renders of the actual UI. The All-apps list on a TV shows your own installed apps.
+
 ## Try the interface
 
 You need Node.js 22.13+ (or 24+) and Python 3.10+ for the browser preview — no TV required.
